@@ -25,3 +25,4 @@ Stack trace:
 #18 C:\Users\never\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\never\\...')
 #19 {main}
   thrown in C:\Users\never\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 324
+[10-Dec-2023 05:08:13 UTC] PHP Warning:  Undefined array key "size" in C:\Users\never\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
