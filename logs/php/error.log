@@ -26,3 +26,10 @@ Stack trace:
 #19 {main}
   thrown in C:\Users\never\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php on line 324
 [10-Dec-2023 05:08:13 UTC] PHP Warning:  Undefined array key "size" in C:\Users\never\Local Sites\fictional-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[13-Dec-2023 00:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_archive_title() in C:\Users\never\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\archive.php:4
+Stack trace:
+#0 C:\Users\never\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\never\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\never\\...')
+#2 C:\Users\never\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\never\\...')
+#3 {main}
+  thrown in C:\Users\never\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\archive.php on line 4
