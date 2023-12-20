@@ -1,0 +1,5 @@
+$ git status
+# Untracked files:
+logs/
+config/
+node_modules/
